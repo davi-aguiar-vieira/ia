@@ -1,6 +1,6 @@
 # Portfólio 4 - Inteligência Artificial
 
-## Agente Baseado em Conhecimento
+## **Agente Baseado em Conhecimento**
 
 Os agentes baseados em conhecimento desempenham um papel central na inteligência artificial (IA), pois empregam raciocínio lógico sobre um conjunto estruturado de informações para tomar decisões e agir em um ambiente. Esses agentes se destacam por sua capacidade de integrar informações novas e realizar inferências, o que os torna particularmente adequados para ambientes complexos e parcialmente observáveis.
 
@@ -165,7 +165,7 @@ Agentes baseados em conhecimento são fundamentais na inteligência artificial, 
 
 
 
-## Lógica 
+## **Lógica** 
 
 A lógica é um dos fundamentos mais importantes da Inteligência Artificial (IA), sendo utilizada para representar conhecimento e realizar inferências. Em IA, a lógica é a base para criar agentes inteligentes que podem raciocinar, tomar decisões e solucionar problemas com base em um conjunto de fatos e regras.
 
@@ -492,6 +492,7 @@ S(2,1): True
 
 ---
 ---
+
 #### Referências
 
 1. Russell, S. J., & Norvig, P. (2021). **Artificial Intelligence: A Modern Approach**. 4th Edition. Pearson.
